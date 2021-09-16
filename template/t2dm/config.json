@@ -1,0 +1,18 @@
+{
+    "patients": "template/t2dm/patient_infos.json",
+    "environments": "template/t2dm/env_infos.json",
+    "intelligence_dir": "template/t2dm/manager/intelligence",
+    "save_dir": "template/t2dm/manager/intelligence/save_dir",
+    "initial_environment_ids": {
+        "from_id": 0
+    },
+    "stopping_condition": {
+        "max_patient_time": {"days": 365}
+    },
+    "hard_stop": 10000,
+    "log_every": 1,
+    "log_intermediate": false,
+    "log_patient_record": true,
+    "fhir_server_validate": false,
+    "patient_record_duplicate_action": "add"
+}
