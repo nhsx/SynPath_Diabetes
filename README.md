@@ -1,5 +1,5 @@
 # SynPath_Diabetes
-Demonstration of using SynPath version 1.0.0 for creating a diabetes pathway.  This repo sits as a module inside the `templates` folder as https://github.com/nhsx/SynPath/tree/main/template/t2dm
+Demonstration of using SynPath version 1.0.0 for creating a diabetes pathway.  This repo sits as a module inside the `templates` folder https://github.com/nhsx/SynPath/tree/master/template as `t2dm @ #version#`
 
 See Readme in https://github.com/nhsx/SynPath for SynPath documentation.
 
