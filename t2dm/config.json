@@ -1,8 +1,8 @@
 {
-    "patients": "template/t2dm/patient_infos.json",
-    "environments": "template/t2dm/env_infos.json",
-    "intelligence_dir": "template/t2dm/manager/intelligence",
-    "save_dir": "template/t2dm/manager/intelligence/save_dir",
+    "patients": "template/t2dm/t2dm/patient_infos.json",
+    "environments": "template/t2dm/t2dm/env_infos.json",
+    "intelligence_dir": "template/t2dm/t2dm/manager/intelligence",
+    "save_dir": "template/t2dm/t2dm/manager/intelligence/save_dir",
     "initial_environment_ids": {
         "from_id": 0
     },
