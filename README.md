@@ -1,7 +1,12 @@
 # SynPath_Diabetes
-Demonstration of using SynPath version 1.0.0 for creating a diabetes pathway.  This repo sits as a module inside the `templates` folder https://github.com/nhsx/SynPath/tree/master/template as `t2dm @ #version#`
+
+This repository holds code for the NHSX Analytics Unit PhD internship project (previously known as Synthetic Data Generation - Longitudinal) demonstrating the use of SynPath version 1.0.0 for creating a diabetes pathway by Tiyi Morris.  This repo sits as a module inside the `templates` folder https://github.com/nhsx/SynPath/tree/master/template as `t2dm @ #version#`.
 
 See Readme in https://github.com/nhsx/SynPath for SynPath documentation.
+
+[Project Description - Synthetic Data Exploration: Longitudinal](https://nhsx.github.io/nhsx-internship-projects/synthetic-data-exploration-longitudinal/)
+
+_**Note:** No data, public or private are shared in this repository._
 
 ### Project Stucture
 
