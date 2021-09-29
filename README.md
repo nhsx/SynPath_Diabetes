@@ -3,6 +3,11 @@ Demonstration of using SynPath version 1.0.0 for creating a diabetes pathway.  T
 
 See Readme in https://github.com/nhsx/SynPath for SynPath documentation.
 
+### Project Stucture
+
+- The main code is found in the `t2dm' folder of the repository
+- The accompanying [report](./reports/report.pdf) is also available in the `reports` folder
+
 # Patient_abm type 2 diabetes module
 
 ## Description
