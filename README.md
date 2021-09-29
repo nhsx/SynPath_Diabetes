@@ -11,7 +11,7 @@ _**Note:** No data, public or private are shared in this repository._
 ### Project Stucture
 
 - The main code is found in the `t2dm' folder of the repository
-- The accompanying [report](./reports/report.pdf) is also available in the `reports` folder
+- The accompanying [report](./reports/Technical Report (SynPath Diabetes) v1.pdf) is also available in the `reports` folder
 
 # Patient_abm type 2 diabetes module
 
@@ -27,11 +27,11 @@ The model will run for a year with the first 500 patients and then the sensitivi
 
 After the first year that the model runs a further 9,500 patients will be added with the optimisation learning turned on with the output being recorded. 
 
-Patients will exit the model if they develop end-stage kidney disease or liver disease.
+Patients will return to GP care if they develop end-stage kidney disease or liver disease.
 
 ### Creating patients
 
-Dictionaries are used to input patients through patient_infos.json. Patient characteristics data were developed from PHE fingertips data (link)
+Dictionaries are used to input patients through patient_infos.json.
 
 Future versions of the model could use existing data sets (e.g. CPRD) to create a more accurate representation of 10,000 patients.
 
